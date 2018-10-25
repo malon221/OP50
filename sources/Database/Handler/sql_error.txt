@@ -1,0 +1,528 @@
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:05	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:06	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:07	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
+Wednesday 13.09.2017, 16:04:08	getLanguageString: Not found: 1403	ORA-01403: no data found
+
+select LOOKUP_TEXT into :b0:b1  from PRODANG.LANGUAGE_STRINGS where (LABEL=:b2 and language_id=:b3)
