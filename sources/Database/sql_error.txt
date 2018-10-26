@@ -1,0 +1,95 @@
+2018-10-25 23:28:32; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 31; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:29:46; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 31; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:29:46; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:29:47; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:29:56; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:20; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 32; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:20; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:20; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 31; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:20; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:21; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 31; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:21; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:21; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:22; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:22; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:22; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:22; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:23; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 32; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:23; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:23; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:23; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:24; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 32; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:24; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:24; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:24; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:25; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:25; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:25; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:26; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 31; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:26; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:26; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:26; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:27; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:27; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:27; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:27; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:28; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:28; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:28; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:29; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:29; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:29; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:29; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:30; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 15; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:30; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:30; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:30:30; Login: Oracle error: -12560; EXEC SQL CONNECT, execution time[ms]: 16; ORA-12560: TNS:protocol adapter error
+
+2018-10-25 23:31:17; Login: Oracle error: -12545; EXEC SQL CONNECT, execution time[ms]: 11937; ORA-12545: Connect failed because target host or object does not exist
+2018-10-25 23:31:29; Login: Oracle error: -12545; EXEC SQL CONNECT, execution time[ms]: 11891; ORA-12545: Connect failed because target host or object does not exist
+2018-10-25 23:31:46; Login: Oracle error: -12545; EXEC SQL CONNECT, execution time[ms]: 17015; ORA-12545: Connect failed because target host or object does not exist

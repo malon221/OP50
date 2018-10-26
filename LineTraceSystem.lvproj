@@ -144,12 +144,15 @@
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Logger.ConvertStatusText.vi" Type="VI" URL="../sources/Logger/Logger.ConvertStatusText.vi"/>
+			<Item Name="Logger.FileBody.ctl" Type="VI" URL="../sources/Logger/Logger.FileBody.ctl"/>
+			<Item Name="Logger.handleFileContent.vi" Type="VI" URL="../sources/Logger/Logger.handleFileContent.vi"/>
+			<Item Name="Logger.HandleNAme.vi" Type="VI" URL="../sources/Logger/Logger.HandleNAme.vi"/>
+			<Item Name="Logger.ReadResultFile.vi" Type="VI" URL="../sources/Logger/Logger.ReadResultFile.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
+			<Item Name="Sequence.Step.Status.ctl" Type="VI" URL="../sources/Sequence/Sequence.Step.Status.ctl"/>
 			<Item Name="shell32.dll" Type="Document" URL="shell32.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="System" Type="VI" URL="System">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="user32.dll" Type="Document" URL="user32.dll">
