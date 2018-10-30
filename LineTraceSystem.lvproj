@@ -30,6 +30,7 @@
 			<Property Name="NI.SortType" Type="Int">0</Property>
 		</Item>
 		<Item Name="ColorListbox.vi" Type="VI" URL="../ColorListbox.vi"/>
+		<Item Name="Untitled 1" Type="VI"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
